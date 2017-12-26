@@ -1,4 +1,4 @@
-# Ruby on Rails TUtorial
+# Ruby on Rails Tutorial
 
 ## "hello, world!"
 
